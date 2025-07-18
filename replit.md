@@ -1,12 +1,13 @@
-# BlogSpace - Full Stack Blog Application
+# Agricultural Consultancy Blog - Full Stack Blog Application
 
 ## Overview
 
-BlogSpace is a modern full-stack blog application built with React, TypeScript, and Express.js. It features a clean, responsive design with markdown support, image uploads, and a comprehensive commenting system. The application uses a PostgreSQL database with Drizzle ORM and includes both published and draft post management.
+This is a modern full-stack blog application built with React, TypeScript, and Express.js for an agricultural consultancy business. It features a clean, responsive design with markdown support, image uploads, and a comprehensive commenting system. The application uses a PostgreSQL database with Drizzle ORM and includes both published and draft post management.
 
 ## User Preferences
 
 Preferred communication style: Simple, everyday language.
+Business Type: Agricultural consultancy - needs company branding customization.
 
 ## System Architecture
 
