@@ -27,9 +27,9 @@ export default function Newsletter() {
   return (
     <section className="py-16 bg-muted">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-        <h3 className="text-3xl font-bold text-foreground mb-4">Stay Updated</h3>
+        <h3 className="text-3xl font-bold text-foreground mb-4">Stay Informed</h3>
         <p className="text-muted-foreground mb-8 max-w-2xl mx-auto">
-          Get the latest posts and insights delivered directly to your inbox. No spam, just quality content.
+          Get the latest agricultural insights, industry updates, and expert advice delivered to your inbox.
         </p>
         <form onSubmit={handleSubmit} className="max-w-md mx-auto">
           <div className="flex flex-col sm:flex-row gap-4">

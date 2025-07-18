@@ -8,6 +8,8 @@ This is a modern full-stack blog application built with React, TypeScript, and E
 
 Preferred communication style: Simple, everyday language.
 Business Type: Agricultural consultancy - needs company branding customization.
+Company Name: Weland Agrisols
+Database: Supabase (PostgreSQL)
 
 ## System Architecture
 

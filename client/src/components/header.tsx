@@ -14,7 +14,7 @@ export default function Header() {
           <div className="flex items-center space-x-8">
             <Link href="/">
               <h1 className="text-2xl font-bold text-foreground hover:text-accent transition-colors">
-                BlogSpace
+                Weland Agrisols
               </h1>
             </Link>
             <nav className="hidden md:flex space-x-6">
